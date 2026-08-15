@@ -1,5 +1,5 @@
-joblib
+streamlit
+pandas
 numpy
-librosa
 scikit-learn
-soundfile
+joblib
